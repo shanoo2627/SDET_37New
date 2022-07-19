@@ -13,6 +13,7 @@ public class practice2Test {
 
 			@Test		public void demo1() {
 					System.out.println("Test2-->Test3");
+					System.out.println("bye all");
 				}
 		}
 }
