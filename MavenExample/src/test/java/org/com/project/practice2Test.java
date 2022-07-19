@@ -14,7 +14,7 @@ public class practice2Test {
 			@Test		public void demo1() {
 					System.out.println("Test2-->Test3");
 					System.out.println("bye all");
-				System.out.println("checking whether oulled or not");
+				System.out.println("checking whether pulled or not");
 				}
 		}
 }
